@@ -1,0 +1,9 @@
+git and GitHub
+
+Git is a vcs so u can see various versions of the files
+collaborate on code
+keeps u track of changes made
+
+GitHub
+
+it is a repository hosting service
